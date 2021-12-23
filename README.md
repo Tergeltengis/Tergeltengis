@@ -26,18 +26,14 @@
 </p>
 
   
-   
   ## ⭐️ Libraries and Frameworks:
 
-  <a href="https://opencv.org/" target="_blank"> <img src="https://www.kindpng.com/picc/m/376-3766513_opencv-icon-hd-png-download.png" alt="opencv" width="44" height="40"/> </a> 
   <a href="https://spring.io/" target="_blank"> <img src="https://img.icons8.com/color/2x/spring-logo.png" alt="spring" width="44" height="44"/> </a>
-  <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="bootstrap" width="44" height="44"/> </a> 
-  <a href="https://vaadin.com/" target="_blank"> <img src="https://img.icons8.com/windows/2x/vaadin.png" alt="vaadin" width="44" height="44"/> </a> 
   <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/plasticine/2x/react.png" alt="react" width="44" height="44"/> </a> 
-  
-</p>
-
-  
+  <a href="https://vaadin.com/" target="_blank"> <img src="https://img.icons8.com/windows/2x/vaadin.png" alt="vaadin" width="44" height="44"/> </a> 
+  <a href="https://opencv.org/" target="_blank"> <img src="https://www.kindpng.com/picc/m/376-3766513_opencv-icon-hd-png-download.png" alt="opencv" width="44" height="40"/> </a> 
+  <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="bootstrap" width="44" height="44"/>      </a> 
+ 
   
    ##  💥  Tools, IDEs and Softwares:
 
@@ -48,45 +44,10 @@
    <a href="https://code.visualstudio.com/"> <img src="https://img.icons8.com/color/2x/visual-studio-code-2019.png" alt="vscode" width="40" height="40" /> </a>
   
   
-</p>
+</p>   
 
- 
-  <br>
-  <br>
-  <br>
-  
+  Test  README
 
-  
-
-
-<a href="https://github.com/SumanthBajjuri07/investigating-the-netflix-movies">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SumanthBajjuri07&repo=investigating-the-netflix-movies&theme=great-gatsby" />
-</a>
-
-  <a href="https://github.com/SumanthBajjuri07/disney-movies-and-box-office-success">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SumanthBajjuri07&repo=disney-movies-and-box-office-success&theme=great-gatsby" />
-</a>
-<a href="https://github.com/SumanthBajjuri07/collab">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SumanthBajjuri07&repo=collab&theme=great-gatsby" />
-</a>
-  
-  
- 
-  <br>
-  <br>
- 
-  
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SumanthBajjuri07&theme=great-gatsby&layout=compact&card_width=445)](https://github.com/anuraghazra/github-readme-stats)
-
-
-  
-  
-   
- <!-- <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center"  src="https://github-readme-stats.vercel.app/api?username=SumanthBajjuri07&theme=great-gatsby&count_private=true&hide=issues"  />
-</a>
--->
   
    <br>
   <br>
