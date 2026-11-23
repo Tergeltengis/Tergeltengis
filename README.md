@@ -62,7 +62,7 @@ const tergeltengis = {
 ### 📊 GitHub stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Tergeltengis&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7F5AF0&icon_color=2CB67D" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Tergeltengis&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7F5AF0&icon_color=2CB67D" alt="GitHub stats" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tergeltengis&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7F5AF0" alt="Top languages" />
 </p>
 
